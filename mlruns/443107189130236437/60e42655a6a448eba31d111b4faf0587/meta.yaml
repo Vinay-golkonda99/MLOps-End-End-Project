@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/443107189130236437/60e42655a6a448eba31d111b4faf0587/artifacts
+end_time: 1753784630577
+entry_point_name: ''
+experiment_id: '443107189130236437'
+lifecycle_stage: active
+run_id: 60e42655a6a448eba31d111b4faf0587
+run_name: glamorous-mule-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753784626931
+status: 4
+tags: []
+user_id: VinayPrasad

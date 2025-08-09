@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/443107189130236437/84af106955a2425da6a2543a83ec9b0c/artifacts
+end_time: 1753784913626
+entry_point_name: ''
+experiment_id: '443107189130236437'
+lifecycle_stage: active
+run_id: 84af106955a2425da6a2543a83ec9b0c
+run_name: popular-perch-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753784908209
+status: 4
+tags: []
+user_id: VinayPrasad

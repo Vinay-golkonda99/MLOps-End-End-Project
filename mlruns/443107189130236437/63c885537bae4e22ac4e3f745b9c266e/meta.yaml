@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/443107189130236437/63c885537bae4e22ac4e3f745b9c266e/artifacts
+end_time: 1753785086813
+entry_point_name: ''
+experiment_id: '443107189130236437'
+lifecycle_stage: active
+run_id: 63c885537bae4e22ac4e3f745b9c266e
+run_name: nosy-bat-764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753785082464
+status: 4
+tags: []
+user_id: VinayPrasad

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/443107189130236437/9dcf8ccd7b08491ea2ecf7b467a8d562/artifacts
+end_time: 1753784517652
+entry_point_name: ''
+experiment_id: '443107189130236437'
+lifecycle_stage: active
+run_id: 9dcf8ccd7b08491ea2ecf7b467a8d562
+run_name: defiant-dolphin-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753784517628
+status: 4
+tags: []
+user_id: VinayPrasad

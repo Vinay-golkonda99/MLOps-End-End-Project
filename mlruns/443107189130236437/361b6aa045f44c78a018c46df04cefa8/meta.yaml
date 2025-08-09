@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/443107189130236437/361b6aa045f44c78a018c46df04cefa8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '443107189130236437'
+lifecycle_stage: active
+run_id: 361b6aa045f44c78a018c46df04cefa8
+run_name: magnificent-shad-374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753784073228
+status: 1
+tags: []
+user_id: VinayPrasad

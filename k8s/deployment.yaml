@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mlflow-housing-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mlflow-housing
+  template:
+    metadata:
+      labels:
+        app: mlflow-housing
+    spec:
+      containers:
+        - name: mlflow-housing
+          image: vinaygolkonda99/mlflow-housing:latest
+          ports:
+            - containerPort: 1234

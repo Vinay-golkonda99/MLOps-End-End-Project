@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/443107189130236437/cd67da71949d449ba5f763fdce8ce238/artifacts
+end_time: 1753785143727
+entry_point_name: ''
+experiment_id: '443107189130236437'
+lifecycle_stage: active
+run_id: cd67da71949d449ba5f763fdce8ce238
+run_name: dazzling-goose-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753785139527
+status: 3
+tags: []
+user_id: VinayPrasad
